@@ -27,5 +27,12 @@ O consultório está situado na:
 * **Profissional**: Fabiano Ricardo da Silva
 * **Registro**: CROO-SP: 58.298
 
+## 👩🏻‍💻 Desenvolvedora
+
+Este projeto foi desenvolvido por **Cristina Silva**.
+* **GitHub**: [sitespersonalizados-c](https://github.com/sitespersonalizados-c)
+* **E-mail**: [cristinadev80@gmail.com](mailto:cristinadev80@gmail.com)
+
 ---
-*Projeto desenvolvido para profissionalizar o atendimento digital da Lótus Optometria.*
+*Projeto desenvolvido por Cristina Silva para profissionalizar o atendimento digital da Lótus Optometria.*
+
